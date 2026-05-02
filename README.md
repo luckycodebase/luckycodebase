@@ -8,8 +8,6 @@ I'm a Computer Science Engineering student with a strong interest in coding, pro
 
 Always curious. Always learning.
 🔗 Portfolio: https://luckydev.netlify.app/
-📸 Instagram: https://www.instagram.com/thatsluckyy_ 
-💼 LinkedIn: https://www.linkedin.com/in/lucky-kumar-3a4630289/
 
 
 ## 🌐 Socials:
